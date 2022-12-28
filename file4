@@ -1,0 +1,6 @@
+// simple Hello world program in Java
+
+class ()
+{
+system.output.println("Hello World")
+}
