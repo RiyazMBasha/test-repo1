@@ -3,7 +3,7 @@
 // For example factorial of 6 is 6*5*4*3*2*1 which is 720.
 // Java program to find factorial of given number
 
-class Test
+class Test // This is a class
 {
  // method to find factorial of given number
  static int factorial(int n)
